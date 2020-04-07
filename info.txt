@@ -1,0 +1,9 @@
+Custom StatusCode List:
+
+/*
+    For Registration Status Code is: 600-650
+    For Login Status Code is: 651-700
+    For Verification OTP/ Resend OTP / Forget Password Status Code is: 701-750
+
+
+*/
